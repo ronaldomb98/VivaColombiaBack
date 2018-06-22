@@ -8,3 +8,4 @@ The idea is create a platform (See VivaColombia Front) with unknown technologies
  - Python (Functional proggramation)
  - DJango 
  - Mongo
+ - GraphQL
