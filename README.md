@@ -5,6 +5,6 @@ Viva Colombia is a contribution app, created people to want to know about our be
 The idea is create a platform (See VivaColombia Front) with unknown technologies for the group
 
 #Stack
- - Python
- - DJango
+ - Python (Functional proggramation)
+ - DJango 
  - Mongo
